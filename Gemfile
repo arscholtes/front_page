@@ -17,6 +17,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.3'
 gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 
 group :development, :test do
 
